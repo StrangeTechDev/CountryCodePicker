@@ -1,7 +1,7 @@
 library country_code_picker;
 
 import 'package:collection/collection.dart' show IterableExtension;
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 import 'src/bottom_sheet.dart';
 import 'src/constants.dart';

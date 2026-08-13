@@ -1,3 +1,7 @@
+## 3.4.2
+- Migrate to the standalone `material_ui` and `cupertino_ui` packages in place of
+  `package:flutter/material.dart` and `package:flutter/cupertino.dart`
+
 ## 3.4.1 - October 08 2025
 - Fix French country translations
 - Removed Netherlands Antilles from country codes list
